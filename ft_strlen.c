@@ -6,11 +6,9 @@
 /*   By: ahmelamr <ahmelamr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/13 11:11:30 by ahmelamr          #+#    #+#             */
-/*   Updated: 2026/10/22 23:13:16 by ahmelamr         ###   ########.fr       */
+/*   Updated: 2026/11/07 23:20:58 by ahmelamr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "libft.h"
 
 size_t	ft_strlen(const char *s)
 {
